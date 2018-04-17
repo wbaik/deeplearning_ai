@@ -25,4 +25,5 @@ Record of Andrew Ng's `deeplearning.ai` course on `Coursera`.
 <font size=1>Week2　Natural Language Processing & Word Embeddings</font>  
 <font size=1>Week3　Sequence models & Attention mechanism</font>  
 
+Certificates are found here:
 https://www.coursera.org/account/accomplishments/specialization/XQVP9RFFYS3T
