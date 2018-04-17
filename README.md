@@ -1,4 +1,4 @@
-# deepleraning.ai-course
+# Deep Learning 
 Record of [Andrew Ng's](http://www.andrewng.org/) `deeplearning.ai` course on [Coursera](https://www.coursera.org/specializations/deep-learning). 
 
 ------
